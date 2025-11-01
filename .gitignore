@@ -4,3 +4,6 @@
 # Ignora os caches do Python
 __pycache__/
 *.pyc
+
+# IGNORA O ARQUIVO DO BANCO DE DADOS
+financas.db
